@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/copy_menu" android:title="Copy"></item>
+    <item android:title="Paste" android:id="@+id/paste_menu"></item>
+    <item android:id="@+id/move_from" android:title="Move from here"></item>
+    <item android:id="@+id/move_to" android:title="Move to here"></item>
+    <item android:id="@+id/delete" android:title="Delete"></item>
+</menu>
